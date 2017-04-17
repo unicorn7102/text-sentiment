@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "sentimentscoring0.py", line 17, in <module>
+    import textprocessing as tp
+  File "/Users/Angela/Documents/GitRepository/text-sentiment/cal_sentiments/textprocessing.py", line 7, in <module>
+    import jieba
+ImportError: No module named 'jieba'
